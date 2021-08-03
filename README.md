@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Experimental Chat**
 
-- 🌱 I’m currently learning **Ruby, jQuery, React, React Native, Angular and Lua.**
+- 🌱 I’m currently learning **jQuery, React, React Native and Lua.**
 
 - 🤝 I’m looking for help with **Experimental Chat**
 
