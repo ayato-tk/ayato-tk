@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋, I'm Lucas, but I prefer to be called Ayato.</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">I am a full-stack web developer who loves information security, computer science and computer engineering.</h3>
 
-- 🔭 I’m currently working on **Experimental Chat**
+- 🔭 I’m currently working on **EDS and Nuclear Machines**
 
 - 🌱 I’m currently learning **Lua.**
 
-- 🤝 I’m looking for help with **Experimental Chat**
+- 🤝 I’m looking for help with **Nuclear Machines**
 
 - ⚡ Fun fact **I love coffee. :)**
 
