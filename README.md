@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Discenter](https://google.com) ( Comming Soon )  
   
 
-- 🌱 I’m currently learning Japanese and React  
+- 🌱 I’m currently learning Japanese, React and Ruby  
   
 
 - ❓ Ask me about anything related to web dev and related technologies  
