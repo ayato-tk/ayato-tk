@@ -6,17 +6,14 @@
 ### <div align="center">I'm full-stack who loves information security and computer science.</div>  
   
 
-- 🔭 I’m currently working on [Discenter](https://google.com) ( Comming Soon )  
-  
+- 🔭 I'm currently working in free time [Club Penguin Avalanche](https://cpavalanche.net/)
 
-- 🌱 I’m currently learning Japanese and C++  
+
+- 🌱 I’m currently learning Japanese  
   
 
 - ❓ Ask me about anything related to web dev and related technologies  
-  
-
-- ⚡ Fun fact: I love coffe :3  
-  
+    
 
 <br/>  
 
@@ -99,17 +96,11 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5v21gzgd1ftwdgxpdr2xwm98j&cover_image=true&theme=default&show_offline=false" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ayato-tk&&style=flat-square" align="center" />
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ayatotk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayatotk" /></a></p><br><br>
 </div>  
   
 
