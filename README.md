@@ -21,7 +21,6 @@
 ###
 
 <p align="left"><br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Japanese<br>- ⚡ In my free time I working in Club Penguin Avalanche</p>
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
